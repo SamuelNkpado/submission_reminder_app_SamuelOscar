@@ -66,6 +66,11 @@ cat > assets/submissions.txt << 'EOF'
 student, assignment, submission status
 Chinemerem, Shell Navigation, not submitted
 Chiagoziem, Git, submitted
+Ebo, Shell Navigation, submitted
+Tobi, Git, not submitted
+Arinze, Shell Navigation, not submitted
+Igwe, Shell Basics, not submitted
+Blessing, Shell Navigation, not submitted
 Divine, Shell Navigation, not submitted
 Anissa, Shell Basics, submitted
 EOF
